@@ -1,3 +1,3 @@
 # Hearsay
 
-React bar finder app.
+Bar finder React project.

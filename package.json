@@ -1,7 +1,7 @@
 {
-  "name": "hearsay",
-  "version": "0.0",
-  "description": "react one pager",
+  "name": "react-bootstrap",
+  "version": "1.0.0",
+  "description": "react bootstrap application",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -10,7 +10,7 @@
   "keywords": [
     "react"
   ],
-  "author": "Jonny Edge",
+  "author": "Manchester Codes",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -21,20 +21,14 @@
   },
   "homepage": "https://github.com/MCRcodes/react-bootstrap#readme",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.8",
-    "@fortawesome/free-solid-svg-icons": "^5.5.0",
-    "@fortawesome/react-fontawesome": "^0.1.3",
-    "axios": "^0.18.0",
     "prop-types": "^15.6.1",
     "raf": "^3.4.0",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2",
-    "react-router": "^4.3.1",
-    "react-router-dom": "^4.3.1"
+    "react-dom": "^16.3.2"
   },
   "devDependencies": {
     "babel-jest": "^22.4.3",
-    "babel-loader": "^7.1.4",
+    "babel-loader": "^7.1.5",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.1",
@@ -46,13 +40,13 @@
     "eslint-config-mcr-codes": "^1.3.0",
     "file-loader": "^1.1.11",
     "jest": "^22.4.3",
-    "node-sass": "^4.9.2",
+    "node-sass": "^4.11.0",
     "react-test-renderer": "^16.3.2",
     "sass-loader": "^7.0.1",
     "style-loader": "^0.21.0",
     "webpack": "^4.6.0",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.14"
+    "webpack-dev-server": "^3.3.1"
   },
   "jest": {
     "moduleNameMapper": {
