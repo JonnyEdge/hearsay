@@ -1,3 +1,3 @@
-# React Real Estate App
+# Hearsay
 
 React bar finder app.
